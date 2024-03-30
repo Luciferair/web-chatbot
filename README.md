@@ -16,6 +16,12 @@ To get started with DevilChat, follow these steps:
 2. DevilChat will generate a response using Google's Generative AI.
 3. The response will be displayed in the chat box along with a link if applicable.
 
+## Dependencies
+
+- `@google/generative-ai`: Google's Generative AI library for Node.js
+- `dotenv`: Library for loading environment variables from a `.env` file
+- `express`: Web server framework for Node.js
+
 ## Technologies Used
 
 - Node.js
